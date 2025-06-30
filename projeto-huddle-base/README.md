@@ -50,12 +50,11 @@ Criar uma landing page fiel ao layout fornecido, com:
 
 ## 📷 Prévia do Projeto
 
-### 💻 Desktop
-![Preview Desktop](.src/designfinal/desktop-final-design) 
+### 💻 Versão Desktop
+![Preview Desktop](./src/designfinal/desktop-final-design.png)
 
-### 📱 Mobile
-![Preview Mobile](.src/designfinal/mobile-final-design)
-
+### 📱 Versão Mobile
+![Preview Mobile](./src/designfinal/mobile-final-design.png)
 ---
 
 ## 📂 Estrutura de Arquivos

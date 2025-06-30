@@ -96,6 +96,10 @@ cd huddle-landing-page
 
 3. Abra o arquivo `index.html` em seu navegador.
 
+## 🌐 Live Site
+
+[Acesse o site publicado aqui](https://brunopenna87.github.io/huddle-landing-page/)
+
 ---
 
 ## 📚 Créditos
